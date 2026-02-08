@@ -58,5 +58,5 @@
 ## 🌍 Connect With Me
 
 💼 LinkedIn: https://linkedin.com/in/samuelteferi
-🌐 Portfolio: https://samuelteferiu
+🌐 Portfolio:[ https://samuelteferiu](https://samallad.vercel.app/)
 📧 Email: samuelflatie@gmail.com
