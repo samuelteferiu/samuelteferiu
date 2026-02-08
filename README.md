@@ -44,9 +44,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuelteferiu&show_icons=true&theme=tokyonight)
 
 ---
 
